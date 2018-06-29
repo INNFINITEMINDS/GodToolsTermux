@@ -16,4 +16,5 @@ follow the next steps for SUDO
 
 7.    cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
-8.    chmod 700 /data/data/com.termux/files/usr/bin/sudo/
+8.    chmod 700 /data/data/com.termux/files/usr/bin/sudo
+
