@@ -9,7 +9,7 @@ apt install git
 
 pkg install ncurses-utils
 
-git clone https://github.com/GottModusTermux/GodToolsTermux.git && cd GodToolsTermux
+git clone https://github.com/GottModusTermux/GodToolsTermux.git && cd GodToolsTermux/sudo
 
 apt install fish && fish
 
