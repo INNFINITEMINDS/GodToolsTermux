@@ -1,0 +1,22 @@
+follow the next steps for SUDO
+Copy& Past:
+
+termux-setup-storage
+
+apt update && apt upgrade
+
+apt install git
+
+pkg install ncurses-utils
+
+git clone https://github.com/GottModusTermux/GodToolsTermux.git && cd GodToolsTermux
+
+apt install fish && fish
+
+cat sudo > /data/data/com.termux/files/usr/bin/sudo
+
+chmod 700 /data/data/com.termux/files/usr/bin/sudo 
+ 
+exit 
+ 
+sudo 
