@@ -1,0 +1,23 @@
+ Ultimate Linux Terminal on Android 
+ #GottModusTermux <---
+
+ TxTool on Termux !!
+follow the next steps for MetaSploit
+ >Copy&Paste:
+
+cd GodToolsTermux/txtool
+
+unzip txtool-master.zip
+
+pkg install python
+
+pkg install python2 
+
+cd txtool-master
+
+./install.py
+
+txtool
+
+____
+#GottModusTermux 
