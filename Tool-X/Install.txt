@@ -1,0 +1,23 @@
+ Ultimate Linux Terminal on Android 
+ #GottModusTermux <---
+
+ Tool-X on Termux !!
+ more than 70 kali hacking tools
+
+follow the next steps for Tool-X
+ >Copy&Paste:
+
+cd GodToolsTermux/Tool-X
+
+unzip Tool-X.zip
+
+cd Tool-X
+
+chmod +x install.aex
+
+./install.aec
+
+Tool-X
+
+____
+#GottModusTermux 
