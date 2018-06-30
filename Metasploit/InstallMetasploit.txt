@@ -1,0 +1,25 @@
+ Ultimate Linux Terminal on Android 
+ #GottModusTermux <---
+
+ Metasploit on Termux !!
+ auto install without error's
+ 
+
+follow the next steps for MetaSploit
+ >Copy&Past:
+
+cd GodToolsTermux/Metasploit
+
+chmod +x ./metasploit.sh
+
+./metasploit
+
+cd
+
+cd metasploit-framework
+
+msfconsole
+
+
+____
+#GottModusTermux 
