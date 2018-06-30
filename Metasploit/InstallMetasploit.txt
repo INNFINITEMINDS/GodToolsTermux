@@ -6,7 +6,7 @@
  
 
 follow the next steps for MetaSploit
- >Copy&Past:
+ >Copy&Paste:
 
 cd GodToolsTermux/Metasploit
 
