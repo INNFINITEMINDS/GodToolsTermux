@@ -7,13 +7,13 @@ follow the next steps for MetaSploit
 
 cd GodToolsTermux/txtool
 
-unzip txtool-master.zip
+unzip txtool.zip
 
 pkg install python
 
 pkg install python2 
 
-cd txtool-master
+cd txtool
 
 ./install.py
 
