@@ -4,7 +4,7 @@ Ultimate Linux Terminal on Android
 vbug - The Termux-Virus-Maker
 
 follow the next steps for "vbug"
- >Copy&Past:
+ >Copy&Paste:
 
 pkg install python
 
