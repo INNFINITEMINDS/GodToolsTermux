@@ -1,5 +1,10 @@
+ Ultimate Linux Terminal on Android 
+ #GottModusTermux
+ 
+  SUPERUSER DO !! aka. SUDO
+
 follow the next steps for SUDO
-Copy& Past:
+ >Copy& Past:
 
 termux-setup-storage
 
@@ -16,7 +21,10 @@ apt install fish && fish
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
 chmod 700 /data/data/com.termux/files/usr/bin/sudo 
- 
-exit 
- 
-sudo 
+
+exit
+
+sudo
+
+____
+#GottModusTermux
