@@ -4,7 +4,7 @@
   SUPERUSER DO !! aka. SUDO
 
 follow the next steps for SUDO
- >Copy& Past:
+ >Copy&Paste:
 
 termux-setup-storage
 
