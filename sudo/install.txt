@@ -1,5 +1,5 @@
  Ultimate Linux Terminal on Android 
- #GottModusTermux
+ #GottModusTermux <---
  
   SUPERUSER DO !! aka. SUDO
 
