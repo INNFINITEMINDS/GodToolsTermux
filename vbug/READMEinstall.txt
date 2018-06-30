@@ -1,9 +1,10 @@
 Ultimate Linux Terminal on Android 
 #GottModusTermux <---
+
 vbug - The Termux-Virus-Maker
 
 follow the next steps for "vbug"
- >Copy&Past
+ >Copy&Past:
 
 pkg install python
 
