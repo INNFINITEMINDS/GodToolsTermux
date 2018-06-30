@@ -1,7 +1,11 @@
  Ultimate Linux Terminal on Android 
+ #GottModusTermux
  
- follow the next steps for SUDO
-
+ SUPERUSER DO !! aka. SUDO**
+ first install sudo before we run more programs & tools
+ 
+follow the next steps for SUDO**
+ >Copy&Past:
 
 termux-setup-storage
 
@@ -11,7 +15,7 @@ apt install git
 
 pkg install ncurses-utils
 
-git clone https://github.com/GottModusTermux/GodToolsTermux.git && cd GodToolsTermux
+git clone https://github.com/GottModusTermux/GodToolsTermux.git && cd GodToolsTermux/sudo
 
 apt install fish && fish
 
@@ -19,3 +23,14 @@ cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
 chmod 700 /data/data/com.termux/files/usr/bin/sudo 
 
+exit
+
+sudo
+
+____
+#GottModusTermux
+
+SUDO** (superuser do) 
+ is a utility for UNIX- and Linux-based systems 
+ that provides an efficient way to give specific users 
+ permission to use specific system ... 
